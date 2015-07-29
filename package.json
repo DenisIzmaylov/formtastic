@@ -1,0 +1,14 @@
+{
+  "name": "formtastic",
+  "version": "0.0.1",
+  "description": "(React, ES6, redux)-compatible form building and validation library",
+  "homepage": "https://www.github.com/DenisIzmaylov/formtastic",
+  "repository": "DenisIzmaylov/formtastic",
+  "author": "Denis Izmaylov <izmaylov.dm@gmail.com>",
+  "contributors": [
+    "Denis Izmaylov <izmaylov.dm@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {}
+}
